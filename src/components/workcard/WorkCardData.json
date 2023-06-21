@@ -1,0 +1,19 @@
+[{
+    "imgsrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsjf12rbJARqvuO-d26X1fhpWc0yohyz4J-H-Xk2rfdQ&s",
+    "title": "PORTAL OF GOVERNMENT OF KOSHI PROVINCE",
+    "text": "As a backend Laravel developer, I was also part of developers that worked on the official portal of the Government of Koshi Province. I have role involved implementing the backend logic, database integration, APIs, authentication, and data management using Laravel, a PHP framework known for its elegant syntax and robust features. Some specific features that we have worked on include user management, database integration, content management, API development, integration with external systems, security implementation, performance optimization, and testing. My expertise in Laravel and backend development contributed to creating a reliable, secure, and efficient portal for the government of Koshi Province.",
+    "view": "https://p1.gov.np/"
+  },
+  {
+    "imgsrc": "https://cdn.dribbble.com/users/3073/screenshots/17863617/media/df537403019d14180e60418f4d0856f6.png?compress=1&resize=1000x750&vertical=center",
+    "title": "TEXT CHANGER A REACT APPLICATION",
+    "text": "Text Changer is a React application designed to provide users with a versatile and user-friendly tool for manipulating text. With its intuitive interface and powerful features, Text Changer empowers users to easily modify and transform their text in various ways. Whether it's changing the case of the text (uppercase, lowercase, title case), removing or adding specific characters or words, or even performing advanced operations like text encoding or decoding, Text Changer offers a range of options to suit diverse text manipulation needs. The application utilizes the flexibility and interactivity of React to deliver real-time updates, allowing users to instantly see the results of their text modifications as they make changes. With Text Changer, transforming text becomes a seamless and efficient process, providing users with a valuable tool to enhance their writing, formatting, or data manipulation tasks.",
+    "view": "https://github.com/birsardar/textchanger"
+  },
+  {
+    "imgsrc": "https://contentstatic.techgig.com/photo/77087595/Guide-How-to-build-career-as-a-programmer-without-college-degree.jpg",
+    "title": "Ecommerce Website",
+    "text": "This is the description of text",
+    "view": "http://www.youtube.com/okragaming"
+  }
+]
