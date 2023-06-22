@@ -47,6 +47,13 @@
     padding: 0.5rem 1rem;
 }
 
+.expanded-content {
+    color: #fff;
+    width: calc(100% - 40px);
+    margin-top: 20px;
+}
+
+
 @media screen and (max-width: 640px) {
     .project-container {
         max-width: 90%;
