@@ -11,7 +11,7 @@ export default function project() {
       <Navbar />
       <Heroimage2 heading="PROJECTS." text="Some of my projects" />
       <Work />
-      <Card />
+      {/* <Card /> */}
       <Footer />
     </div>
   );
