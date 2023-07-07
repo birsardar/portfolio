@@ -11,9 +11,9 @@
     "view": "https://github.com/birsardar/textchanger"
   },
   {
-    "imgsrc": "https://contentstatic.techgig.com/photo/77087595/Guide-How-to-build-career-as-a-programmer-without-college-degree.jpg",
-    "title": "Ecommerce Website",
-    "text": "This is the description of text",
-    "view": "http://www.youtube.com/okragaming"
+    "imgsrc": "../assets/images/onlinestore.png",
+    "title": "Ecommerce Website Using React js",
+    "text": "A Simple ecommerce website using React and Bootstrap. That fetch the data from faker Api and display the data in the form of cards. The website is fully responsive and mobile friendly. Here the user can view the product details and add the product to the cart. The user can also remove the product from the cart. The user can also search the product by name. The website is fully responsive and mobile friendly.",
+    "view": "https://sombirsardar-onlinestore-project.netlify.app/"
   }
 ]

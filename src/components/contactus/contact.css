@@ -44,3 +44,9 @@ textarea::placeholder {
     background-color: #eaf2ff;
     padding: 4px 6px;
 }
+
+.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 4px;
+}

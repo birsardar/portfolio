@@ -11,8 +11,8 @@ export default function Heroimage() {
           alt="Intro-img"
         />
         <div className="content">
-          <p>HI , I'M FREELANCER.</p>
-          <h1>React Developer</h1>
+          <p>HI , I'M WEB DEVELOPER.</p>
+          <h1>Laravel-React Developer</h1>
           <Link to="/project" className="btn">
             Projects
           </Link>
