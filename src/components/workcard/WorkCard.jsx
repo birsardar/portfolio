@@ -4,7 +4,6 @@ import React, { useRef, useState } from "react";
 
 export default function WorkCard(props) {
   const contentRef = useRef(null);
-  const [isExpanded, setIsExpanded] = useState(false);
   const [expandedIndex, setExpandedIndex] = useState(null);
 
   const toggleContent = (event) => {
@@ -50,9 +49,7 @@ export default function WorkCard(props) {
       </div>
       {expandedIndex && (
         <div onClick={handleClick}>
-          <div className="expanded-content">
-            {props.text}
-          </div>
+          <div className="expanded-content">{props.text}</div>
         </div>
       )}
     </>
