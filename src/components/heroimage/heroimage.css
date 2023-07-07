@@ -40,7 +40,7 @@
 }
 
 .hero .content h1 {
-    font-size: 2rem;
+    font-size: 1.9rem;
     align-items: center;
     padding: 0.6rem 1.5rem;
 }
@@ -57,7 +57,7 @@
 
 @media screen and (max-width:640px) {
     .hero .content h1 {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 
     .hero .content p {
