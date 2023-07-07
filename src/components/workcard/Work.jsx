@@ -1,8 +1,6 @@
 import "./workcard.css";
 import WorkCard from "./WorkCard";
-import ProjectCardData from "./WorkCardData";
 import React, { useEffect, useState } from "react";
-import axios from "axios";
 import data from "./WorkCardData.json";
 
 export default function Work() {
