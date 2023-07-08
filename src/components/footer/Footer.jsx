@@ -7,6 +7,7 @@ import {
   FaFacebook,
   FaTwitter,
   FaLinkedin,
+  FaGit,
 } from "react-icons/fa";
 
 export default function Footer() {
@@ -41,12 +42,9 @@ export default function Footer() {
           </div>
         </div>
         <div className="right">
-          <h4>About Company</h4>
+          <h4>Connect Me</h4>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-            iusto, reprehenderit aliquid cum minima unde doloremque numquam eum
-            doloribus obcaecati fugit inventore corrupti illum quidem molestiae
-            aliquam rerum suscipit quam?
+            Platform where you can find me for your project.I'm available in.
           </p>
           <div className="social">
             <FaFacebook
@@ -61,6 +59,7 @@ export default function Footer() {
               size={30}
               style={{ color: "#fff", marginRight: "1rem" }}
             />
+            <FaGit size={30} style={{ color: "#fff", marginRight: "1rem" }} />
           </div>
         </div>
       </div>
