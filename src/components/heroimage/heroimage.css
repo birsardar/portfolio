@@ -58,9 +58,24 @@
 @media screen and (max-width:640px) {
     .hero .content h1 {
         font-size: 2rem;
+        margin-left: 37px;
     }
 
     .hero .content p {
         font-size: 1.4rem;
+        margin-left: 37px;
+    }
+
+    .into-img {
+        width: 110%;
+    }
+
+    .btns {
+        display: flex;
+        margin-left: 24px;
+    }
+
+    .project {
+        margin-left: 60px;
     }
 }

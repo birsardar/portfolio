@@ -11,14 +11,16 @@ export default function Heroimage() {
           alt="Intro-img"
         />
         <div className="content">
-          <p>HI , I'M WEB DEVELOPER.</p>
+          <p>HI , I'M SOMBIR SARDAR.</p>
           <h1>Laravel-React Developer</h1>
-          <Link to="/project" className="btn">
-            Projects
-          </Link>
-          <Link to="/contact" className="btn btn-light">
-            Contact
-          </Link>
+          <div className="btns">
+            <Link to="/project" className="btn project">
+              Projects
+            </Link>
+            <Link to="/contact" className="btn">
+              Contact
+            </Link>
+          </div>
         </div>
       </div>
     </div>
