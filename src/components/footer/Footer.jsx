@@ -47,19 +47,25 @@ export default function Footer() {
             Platform where you can find me for your project.I'm available in.
           </p>
           <div className="social">
-            <FaFacebook
-              size={30}
-              style={{ color: "#fff", marginRight: "1rem" }}
-            />
+            <a href="https://www.facebook.com/sombirsardar/">
+              <FaFacebook
+                size={30}
+                style={{ color: "#fff", marginRight: "1rem" }}
+              />
+            </a>
+            <a href="https://github.com/birsardar">
+              <FaGit size={30} style={{ color: "#fff", marginRight: "1rem" }} />
+            </a>
+            <a href="https://www.linkedin.com/in/sombirsardar/">
+              <FaLinkedin
+                size={30}
+                style={{ color: "#fff", marginRight: "1rem" }}
+              />
+            </a>
             <FaTwitter
               size={30}
               style={{ color: "#fff", marginRight: "1rem" }}
             />
-            <FaLinkedin
-              size={30}
-              style={{ color: "#fff", marginRight: "1rem" }}
-            />
-            <FaGit size={30} style={{ color: "#fff", marginRight: "1rem" }} />
           </div>
         </div>
       </div>
